@@ -51,7 +51,7 @@ button{
     border: none;
     box-shadow: 0 0 5px #151515;
     font-size: 1rem;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 #alpha-numeric-password{
     font-size: .8rem;
@@ -71,7 +71,7 @@ button{
     flex-basis:49%;
     height: 10vh;
     background-color: black;
-    border-radius: 10px;
+    border-radius: 15px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -81,7 +81,7 @@ button{
     flex-basis:49%;
     height: 10vh;
     background-color: black;
-    border-radius: 10px;
+    border-radius: 15px;
     display: flex;
     justify-content: center;
     align-items: center;
